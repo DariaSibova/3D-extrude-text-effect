@@ -31,3 +31,12 @@ body {
   text-align: center;
 
 }
+
+.script {
+  font-family: "Seaweed Script";
+  color: #fff;
+  text-align: center;
+  font-size: 40px;
+  position: relative;
+  margin:0;
+}
