@@ -22,4 +22,12 @@ body {
   5px 5px 0 #fff,
   6px 6px 0 #fff,
   7px 7px 0 #fff ;
+  line-height: 0.8em;
+  letter-spacing: 0.1em;
+  transform: scaleY(0.7);
+  -webkit-transform: scaleY(0.7);
+  -moz-transform: scaleY(0.7);
+  margin: 0;
+  text-align: center;
+
 }
